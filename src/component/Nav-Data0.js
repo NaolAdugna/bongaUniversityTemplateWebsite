@@ -1,0 +1,39 @@
+const menuData=[
+    {
+        id:1,
+        className:"nav-home",
+        path:"/",
+        title:"HOME"
+    },
+    {
+        id:2,
+        className:"nav-about",
+        path:"/",
+        title:"ABOUT-US"
+    },
+    {
+        id:3,
+        className:"nav-acadamecis",
+        path:"/",
+        title:"ACADAMECIS"
+    },
+    {
+        id:4,
+        className:"nav-administration",
+        path:"/",
+        title:"ADMINISTRATION"
+    },
+    {
+        id:5,
+        className:"nav-communities",
+        path:"/",
+        title:"COMMUNITIES"
+    },
+    {
+        id:6,
+        className:"nav-contact",
+        path:"/",
+        title:"CONTACT US"
+    }
+];
+export default menuData;
